@@ -67,7 +67,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'IQ7amo') # owner username withou
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/IQSUPP')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/EHS4SS')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/MGIMT
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/MGIMT')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/MGIMT')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'IQSUPP') # Support Chat Link Without https:// or @
 
